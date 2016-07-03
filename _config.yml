@@ -1,0 +1,14 @@
+layout_spectrum: 0.47689913283102214
+typography_spectrum: 0.47666451055556536
+color:
+  brandStrength: 0.2037696521729231
+  lightness: 0.029768657172098756
+  saturation: 0.5321986018680036
+  rhythmicContrast: 0.5028761033900082
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: MORESTRENGTH
